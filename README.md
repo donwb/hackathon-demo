@@ -1,6 +1,7 @@
 # Hackathon
 
-**TODO: Add description**
+Check dockerhub for an image for the latest build of this thing
+
 
 ## Installation
 
